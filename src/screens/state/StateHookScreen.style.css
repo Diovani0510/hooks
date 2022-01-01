@@ -1,0 +1,21 @@
+.state-screen-main-container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-input-container {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.text-input-label {
+    font-size: 20px;
+}
+
+.counter-container {
+    display: flex;
+    margin-top: 20px;
+}

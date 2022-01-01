@@ -1,0 +1,20 @@
+.button-component {
+    height: 48px;
+    width: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #2447aa;
+    color: whitesmoke;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background 0.5s;
+}
+
+.button-component:hover {
+    border: 1px solid black;
+    background: whitesmoke;
+    color: #2447aa;
+}

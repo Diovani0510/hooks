@@ -1,0 +1,19 @@
+.navbar-component {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.navbar-item {
+    color: rgb(212, 212, 212);
+    font-family: arial, sans-serif;
+    font-size: 18px;
+    transition: color 1s;
+    text-decoration: none;
+}
+
+.navbar-item:hover {
+    color: white;
+}

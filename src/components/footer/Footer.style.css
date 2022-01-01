@@ -1,0 +1,11 @@
+.main-footer {
+    height: 100px;
+    background-color: #2447aa;
+    box-shadow: 1px 1px 1px rgb(24, 40, 85);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(212, 212, 212);
+    font-family: arial, sans-serif;
+    font-size: 18px;
+}
