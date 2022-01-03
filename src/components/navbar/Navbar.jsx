@@ -8,6 +8,7 @@ export function Navbar() {
             <Link to="/state" className="navbar-item">State</Link>
             <Link to="/reducer" className="navbar-item">Reducer</Link>
             <Link to="/effect" className="navbar-item">Effect</Link>
+            <Link to="/ref" className="navbar-item">Ref</Link>
         </nav>
     )
 }

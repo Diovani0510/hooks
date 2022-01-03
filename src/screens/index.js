@@ -1,3 +1,6 @@
 export { HomeScreen } from './home/HomeScreen'
 export { StateHookScreen } from './state/StateHookScreen'
+export { ReducerHookScreen } from './reducer/ReducerHookScreen'
+export { EffectHookScreen } from './effect/EffectHookScreen'
+export { RefHookScreen } from './ref/RefHookScreen'
 export { ErrorScreen } from './error/ErrorScreen'
